@@ -217,7 +217,7 @@ len_depth=4567
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ### 그 후: Unity ML 프레임워크 업데이트
-Barracuda의 연장이라고 할 수 있는 [Sentis](https://unity.com/kr/products/sentis)가 MiDaS v3+ 모델들을 지원하여서 파이썬 스크립트를 더이상 요구하지는 않았지만, 코덱 관련 문재는 잔존해 파이썬 스크립트도 계속 쓰였습니다.
+Barracuda의 연장이라고 할 수 있는 [Sentis](https://unity.com/kr/products/sentis)가 MiDaS v3+ 모델들을 지원하여서 파이썬 스크립트를 더이상 요구하지는 않았지만, 코덱 관련 문제는 잔존해 파이썬 스크립트도 계속 쓰였습니다.
 
 ### 후기
 이정도 규모의 프로젝트는 처음 해보는 데다 분야도 제게 새로워서 많은 시행착오를 겪었습니다. 특히 계획을 길게 세우지 않고 생각나는대로, 내지는 요청대로 기능을 추가하다 보니 코드베이스가 조금 난해해지기는 했습니다. 그래도 목표를 달성했고 새 길을 개척한 것 같아 뿌듯했습니다.
