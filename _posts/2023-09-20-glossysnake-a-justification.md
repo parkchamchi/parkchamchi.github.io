@@ -276,7 +276,7 @@ You can complain about the introduced barbarism to the original Text. I encourag
 
 One point: I actually don't speak German much, so I can't guarantee how *accurate* the gloss would be. But I speak a bit of French.
 
-### Le papillon et le fleur
+### *Le papillon et le fleur*
 
 ![/imgs/out_papillon.png](imgs/out_papillon.png)
 
