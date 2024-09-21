@@ -110,7 +110,7 @@ My first exposure to the Interlinear translation was [the app Legentibus](https:
 
 This method taught me that learning language can be more than going through boring grammar exercies or paying Duiolingo, Inc. for not much effective outcomes. After all, especially as with dead languages, the goal is *to read*. But to advance was hindered, by the limited corpora: including the paywalled texts. So as usual this became my new problem-solving project. The subobject is to read [*Die Leiden des jungen Werther* (1774)](https://www.projekt-gutenberg.org/goethe/werther/werther.html), whose copy I bought and gave up after reading a page.
 
-- To read the first German I'd recommand Kaufman's bilingual edition of *Faust*.
+- To read the first German I'd recommand Kaufmann's bilingual edition of *Faust*.
 
 ### The LLM.
 
