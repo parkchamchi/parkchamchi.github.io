@@ -282,7 +282,7 @@ One point: I actually don't speak German much, so I can't guarantee how *accurat
 
 Pretty okay. The literal translations like `"Not free not!"`, `"Thou thyself goest!"`, `"Yet we we love,"` are expected; after all what to be read is *French*, not English.
 
-- I'm planning an additional project centering the Lieder and méoldies.
+- I'm planning an additional project centering the Lieder and mélodies.
 
 ## Remarks.
 
