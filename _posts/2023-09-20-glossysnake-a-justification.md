@@ -5,6 +5,8 @@ categories: dev
 permalink: /glossysnake-a-justification
 ---
 
+- Please ignore this badly written text
+
 We are to read to the grave. To argue on whether one's language limit his world he has to read on that matter, be it a Wikipedia article or a hardcover. *Written* language acquisition then becomes his interest.
 
 ## Motivations for learning foreign languages.
